@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[599],{9925:function(e,t,n){n.r(t),n.d(t,{default:function(){return s}});var l=n(7294),u=n(7019);function s(){return l.createElement(u.Z,null,l.createElement("h1",null,"welcome to famsec"),l.createElement("p",null,"This is a starts page"))}}}]);
